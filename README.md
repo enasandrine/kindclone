@@ -1,0 +1,2 @@
+# kindclone
+mes pages kind
